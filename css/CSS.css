@@ -1,0 +1,771 @@
+body
+{
+	background:lightgoldenrodyellow;
+	width: 100%;
+	font-family: 微软雅黑;
+	margin:0px auto;
+}
+
+#space
+{
+	height: 600px;
+	width: 90%;
+}	
+	
+		
+#div1
+{
+	color: orange;
+	background-color: pink;
+	padding:15px 0px 0px 0px;
+	margin: 0 auto;
+	width:90%;
+	text-align: center;
+	font-size: 35px;
+	height: 120px;
+}
+			
+#div2
+{
+	font-size: 45px;
+	margin: 0 auto;
+	color:purple;
+	width: 100%;
+	text-align: left;
+	font-family:Vladimir Script;
+	text-indent: 40px;
+}
+			
+#div3
+{
+	background-color: lightgreen;
+	width: 60%;
+	height: 600px;
+	float: left;
+	font-size: 20px;
+	text-align: left;
+}
+			
+#div4
+{
+	background-color: lightgreen;
+	width: 39%;
+	height: 600px;
+	float:right;
+	font-size: 25px;
+	text-align: center;
+	color: orangered;
+}
+			
+#front
+{
+	text-align: center;
+	width:100%;
+	background-color: greenyellow;
+	font-size: 20px;
+	margin:0px auto;
+	height: 50px;	
+	border-color: lawngreen;
+}
+			
+#div5
+{
+	width: 90%;
+	margin: 0 auto;
+	color: purple;
+}
+
+#div6
+{
+	text-align: center;
+	color: red;
+	font-size: 70px;
+	margin: 0 auto;
+	text-indent: 0px;
+	font-family:Vladimir Script;
+}
+
+#product
+{
+	width: 90%;
+	text-align: left;
+	text-indent: 30px;
+	margin: 0 auto;
+
+	font-family: Tahoma;
+	font-style: italic;
+	border:5px solid;
+	border-radius:25px;
+
+}
+#logo
+{
+	width:30px;
+	height:40px;
+}
+			
+#back
+{
+	margin: 0 auto;
+	width: 90%;
+	background: dimgrey;
+	height: 80px;
+	font-size: 20px;
+	color: white;
+	padding: 15px 0px 0px 0px;
+}
+		
+#tr1
+{
+	font-family: '微软雅黑';
+	color: purple;
+	font-size: 25px;
+}		
+			
+A.a:link
+{
+	color: black;
+	text-decoration:none; 
+}
+
+A.a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+A.a:hover
+{
+	color: grey;
+}
+
+#registerform{
+	width: 90%;
+	text-align: left;
+	font-size: 20px;
+	text-indent: 50px;
+	margin: 0 auto;
+	background: lightpink;
+	border-color: cadetblue;
+}
+
+.bt2{
+	float: left;
+	text-indent: 90px;
+	font-size: 20px;
+	padding: 10px 0px 10px 0px;
+}
+
+#submit{
+	font-family:微软雅黑 ;
+	font-size: 20px;
+	color: black;
+}
+
+ul{
+	font-size: 25px;
+	font-family: 黑体;
+	text-indent: 20px;
+	list-style:none;
+	line-height: 150%;
+}
+
+#show
+{
+	height: 150px;
+	width: 100%;
+	min-width: 90px;
+}
+
+#content
+{
+	width: 90%;
+}
+
+#td1
+{
+	width: 14%;
+}
+
+#alldiv
+{
+	width: 90%;
+}
+
+
+@media only screen and (max-width: 600px) 
+{
+body
+{
+	background:lightgoldenrodyellow;
+	width: 100%;
+	font-family: 微软雅黑;
+	margin:0px auto;
+}
+	
+#space
+{
+	height: 1000px;
+	width: 90%;
+}	
+	
+	
+		
+#div1
+{
+	color: orange;
+	background-color: pink;
+	padding:15px 0px 0px 0px;
+	margin: 0 auto;
+	width:90%;
+	text-align: center;
+	font-size: 30px;
+	height: 120px;
+}
+			
+#div2
+{
+	font-size: 30px;
+	margin: 0 auto;
+	color:purple;
+	width: 100%;
+	text-align: center;
+	font-family:Vladimir Script;
+	text-indent: 0px;
+}
+			
+#div3
+{
+	background-color: lightgreen;
+	width: 60%;
+	height: 1000px;
+	float: left;
+	font-size: 18px;
+	text-align: left;
+}
+			
+#div4
+{
+	background-color: lightgreen;
+	width: 39%;
+	height: 1000px;
+	float:right;
+	font-size: 25px;
+	text-align: center;
+	color: orangered;
+}
+	
+#div6
+{
+	text-align: center;
+	color: red;
+	font-size: 50px;
+	margin: 0 auto;
+	text-indent: 0px;
+}
+	
+			
+#front
+{
+	text-align: center;
+	width:100%;
+	background-color: greenyellow;
+	font-size: 17px;
+	margin:0px auto;
+	height: 50px;	
+	border-color: lawngreen;
+}
+			
+#div5
+{
+	width: 90%;
+	margin: 0 auto;
+	color: purple;
+}
+#product
+{
+	width: 90%;
+	text-align: left;
+	text-indent: 0px;
+	margin: 0 auto;
+
+	font-family: Tahoma;
+	font-style: italic;
+	border:3px solid;
+	border-radius:25px;
+	font-size: 18px;
+}
+
+#tr1
+{
+	font-family: '微软雅黑';
+	color: purple;
+	font-size: 10px;
+}	
+
+#logo
+{
+	width:30px;
+	height:40px;
+}
+	
+
+#back
+{
+	margin: 0 auto;
+	width: 90%;
+	background: dimgrey;
+	height: 50px;
+	font-size: 18px;
+	color: white;
+	padding: 10px 0px 5px 0px;
+}
+			
+A.a:link
+{
+	color: black;
+	text-decoration:none; 
+}
+
+A.a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+A.a:hover
+{
+	color: grey;
+}
+
+#registerform{
+	width: 90%;
+	text-align: left;
+	font-size: 15px;
+	text-indent: 20px;
+	margin: 0 auto;
+	background: lightpink;
+	border-color: cadetblue;
+}
+
+.bt2{
+	float: left;
+	text-indent: 30px;
+	font-size: 15px;
+	padding: 10px 0px 10px 0px;
+}
+
+#submit{
+	font-family:微软雅黑 ;
+	font-size: 20px;
+	color: black;
+}
+
+ul{
+	font-size: 20px;
+	font-family: 黑体;
+	text-indent: 10px;
+	list-style:none;
+	line-height: 150%;
+}
+
+#show
+{
+	height: 50px;
+	width: 100%;
+	min-width: 50px;
+}
+	
+#alldiv
+{
+	width: 90%;
+}	
+	
+}
+
+
+
+@media screen
+and (min-width: 600px) 
+and (max-width: 1200px) 
+and (orientation: portrait)  
+{
+body
+{
+	background:lightgoldenrodyellow;
+	width: 100%;
+	font-family: 微软雅黑;
+	margin:0px auto;
+}
+	
+#space
+{
+	height: 800px;
+	width: 90%;
+}	
+	
+	
+		
+#div1
+{
+	color: orange;
+	background-color: pink;
+	padding:15px 0px 0px 0px;
+	margin: 0 auto;
+	width:90%;
+	text-align: center;
+	font-size: 30px;
+	height: 120px;
+}
+			
+#div2
+{
+	font-size: 30px;
+	margin: 0 auto;
+	color:purple;
+	width: 100%;
+	text-align: center;
+	font-family:Vladimir Script;
+	text-indent: 0px;
+}
+			
+#div3
+{
+	background-color: lightgreen;
+	width: 60%;
+	height: 800px;
+	float: left;
+	font-size: 20px;
+	text-align: left;
+}
+			
+#div4
+{
+	background-color: lightgreen;
+	width: 39%;
+	height: 800px;
+	float:right;
+	font-size: 25px;
+	text-align: center;
+	color: orangered;
+}
+	
+#div6
+{
+	text-align: center;
+	color: red;
+	font-size: 50px;
+	margin: 0 auto;
+	text-indent: 0px;
+}
+	
+			
+#front
+{
+	text-align: center;
+	width:100%;
+	background-color: greenyellow;
+	font-size: 17px;
+	margin:0px auto;
+	height: 50px;	
+	border-color: lawngreen;
+}
+			
+#div5
+{
+	width: 90%;
+	margin: 0 auto;
+	color: purple;
+}
+#product
+{
+	width: 90%;
+	text-align: left;
+	text-indent: 0px;
+	margin: 0 auto;
+
+	font-family: Tahoma;
+	font-style: italic;
+	border:3px solid;
+	border-radius:25px;
+	font-size: 25px;
+}
+
+#tr1
+{
+	font-family: '微软雅黑';
+	color: purple;
+	font-size: 12px;
+}	
+
+#logo
+{
+	width:30px;
+	height:40px;
+}
+	
+
+#back
+{
+	margin: 0 auto;
+	width: 90%;
+	background: dimgrey;
+	height: 50px;
+	font-size: 18px;
+	color: white;
+	padding: 10px 0px 5px 0px;
+}
+			
+A.a:link
+{
+	color: black;
+	text-decoration:none; 
+}
+
+A.a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+A.a:hover
+{
+	color: grey;
+}
+
+#registerform{
+	width: 90%;
+	text-align: left;
+	font-size: 18px;
+	text-indent: 20px;
+	margin: 0 auto;
+	background: lightpink;
+	border-color: cadetblue;
+}
+
+.bt2{
+	float: left;
+	text-indent: 30px;
+	font-size: 18px;
+	padding: 10px 0px 10px 0px;
+}
+
+#submit{
+	font-family:微软雅黑 ;
+	font-size: 20px;
+	color: black;
+}
+
+ul{
+	font-size: 23px;
+	font-family: 黑体;
+	text-indent: 10px;
+	list-style:none;
+	line-height: 150%;
+}
+
+#show
+{
+	height: 60px;
+	width: 100%;
+	min-width: 60px;
+}
+	
+#alldiv
+{
+	width: 90%;
+}
+
+}
+
+
+
+@media only screen 
+and (max-width: 1024px)
+and (orientation: landscape) 
+{
+body
+{
+	background:lightgoldenrodyellow;
+	width: 100%;
+	font-family: 微软雅黑;
+	margin:0px auto;
+}
+	
+#space
+{
+	height: 800px;
+	width: 95%;
+}	
+	
+#alldiv
+{
+	width: 95%;
+}	
+
+#div1
+{
+	color: orange;
+	background-color: pink;
+	padding:15px 0px 0px 0px;
+	margin: 0 auto;
+	width:95%;
+	text-align: center;
+	font-size: 35px;
+	height: 120px;
+}
+			
+#div2
+{
+	font-size: 40px;
+	margin: 0 auto;
+	color:purple;
+	width: 100%;
+	text-align: center;
+	font-family:Vladimir Script;
+	text-indent: 0px;
+}
+			
+#div3
+{
+	background-color: lightgreen;
+	width: 60%;
+	height: 800px;
+	float: left;
+	font-size: 22px;
+	text-align: left;
+}
+			
+#div4
+{
+	background-color: lightgreen;
+	width: 39%;
+	height: 800px;
+	float:right;
+	font-size: 25px;
+	text-align: center;
+	color: orangered;
+}
+	
+#div6
+{
+	text-align: center;
+	color: red;
+	font-size: 55px;
+	margin: 0 auto;
+	text-indent: 0px;
+}
+	
+			
+#front
+{
+	text-align: center;
+	width:100%;
+	background-color: greenyellow;
+	font-size: 19px;
+	margin:0px auto;
+	height: 50px;	
+	border-color: lawngreen;
+}
+			
+#div5
+{
+	width: 95%;
+	margin: 0 auto;
+	color: purple;
+}
+#product
+{
+	width: 90%;
+	text-align: left;
+	text-indent: 0px;
+	margin: 0 auto;
+
+	font-family: Tahoma;
+	font-style: italic;
+	border:3px solid;
+	border-radius:25px;
+	font-size: 25px;
+}
+
+#tr1
+{
+	font-family: '微软雅黑';
+	color: purple;
+	font-size: 12px;
+}	
+
+#logo
+{
+	width:30px;
+	height:40px;
+}
+	
+
+#back
+{
+	margin: 0 auto;
+	width: 95%;
+	background: dimgrey;
+	height: 50px;
+	font-size: 18px;
+	color: white;
+	padding: 10px 0px 5px 0px;
+}
+			
+A.a:link
+{
+	color: black;
+	text-decoration:none; 
+}
+
+A.a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+A.a:hover
+{
+	color: grey;
+}
+
+#registerform{
+	width: 95%;
+	text-align: left;
+	font-size: 18px;
+	text-indent: 20px;
+	margin: 0 auto;
+	background: lightpink;
+	border-color: cadetblue;
+}
+
+.bt2{
+	float: left;
+	text-indent: 30px;
+	font-size: 18px;
+	padding: 10px 0px 10px 0px;
+}
+
+#submit{
+	font-family:微软雅黑 ;
+	font-size: 20px;
+	color: black;
+}
+
+ul{
+	font-size: 23px;
+	font-family: 黑体;
+	text-indent: 10px;
+	list-style:none;
+	line-height: 150%;
+}
+
+#show
+{
+	height: 80px;
+	width: 100%;
+	min-width: 60px;
+}
+	
+}
